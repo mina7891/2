@@ -1,4 +1,3 @@
-
 {
   "name": "mina-market",
   "version": "1.0.0",
@@ -10,8 +9,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   }
 }
